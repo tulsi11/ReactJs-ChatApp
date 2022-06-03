@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "chatapp-ea812",
+    "staging": "chatapp-ea812"
+  },
+  "targets": {}
+}
