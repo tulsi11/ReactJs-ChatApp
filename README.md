@@ -1,3 +1,3 @@
-## Chat Application
+# Chat Application
 
-### Live Demo: https://chatapp-ea812.web.app
+## Live Demo: https://chatapp-ea812.web.app
