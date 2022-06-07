@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "reactjs-chatapp",
+    "public": "build",
     "ignore": [
       "firebase.json",
       "**/.*",
